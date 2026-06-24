@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1.1.71",
+    "sutra": "pratyahara saṃjñā",
+    "text": "Definition of pratyāhāra: compact naming of phoneme sequences using it-markers.",
+    "pratyahara": ["ac"],
+    "tags": ["pratyahara", "phonology"],
+    "notes": "This sutra is foundational: defines the pratyāhāra mechanism using Shiva Sūtras."
+  },
+  {
+    "id": "1.1.72",
+    "sutra": "Example-rule",
+    "text": "SAMPLE: A hypothetical sutra that uses pratyahara 'ac' to denote vowels in certain operations.",
+    "pratyahara": ["ac"],
+    "tags": ["vowel", "operation"],
+    "notes": "Demonstration entry for Phase 4 engine."
+  },
+  {
+    "id": "2.1.1",
+    "sutra": "sandhi-example",
+    "text": "A sample sandhi-related sutra referencing consonant sets.",
+    "pratyahara": [],
+    "tags": ["sandhi", "consonant"],
+    "notes": "Placeholder rule for consonantal sandhi families."
+  }
+]
