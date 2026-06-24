@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanskrit_nlp_core"
+version = "0.1.0"
+description = "Sanskrit-Powered Core NLP & Logical AI Engine - Phase 1 (Shiva Sutras parser & scaffolding)"
+authors = [
+  { name="Elite Compiler Engineer & Sanskrit Grammarian", email="noreply@example.com" }
+]
+dependencies = [
+  "regex>=2022.10.31",
+]
